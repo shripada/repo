@@ -1,2 +1,2 @@
-This is a book on Git and best practices of its use. Gitt is a version control systemm. It is distributed i n nature and you can have local commmits
-Chapter 1 details are yet to be added
+This is a book on Git. Git is a version control system. It is distributed i n nature and you can have local commmits
+Git has a staging area. You need to add yhour files to it before you can commit
