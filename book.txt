@@ -1,1 +1,1 @@
-This is a book on Git. Gitt is a version control systemm. It is distributed i n nature and you can have local commmits
+This is a book on Git and best practices of its use. Gitt is a version control systemm. It is distributed i n nature and you can have local commmits
